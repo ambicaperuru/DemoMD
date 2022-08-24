@@ -7,7 +7,9 @@ And this is ***bold italics***
 ---
 
 Take me to apple [apple web site](https://www.apple.com)
-We have an image ![]()
+We have an image ![]() (create another repo and add the image into it)
+
+I want to ride the merry_go_round is different to the merry\_go\_round
 
 An unoredred list of names
 * Thor
