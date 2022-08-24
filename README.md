@@ -4,6 +4,8 @@ Demonstration of mark down
 This is *italics* and this is __bold__.
 And this is ***bold italics***
 
+---
+
 An unoredred list of names
 * Thor
 * Captain America
